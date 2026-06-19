@@ -44,8 +44,8 @@ Siga as instruções abaixo para reproduzir o ambiente e executar as análises l
 
 ### 1. Clonar o repositório
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DA_PASTA>
+git clone git@github.com:biaespinheira/TP-MATA53.git
+cd TP-MATA53-main
 ```
 
 ### 2. Preparar o Dataset
