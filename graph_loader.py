@@ -39,8 +39,8 @@ class GraphLoader:
     
 if __name__ == "__main__":
     graph = GraphLoader.load(
-        "wikispeedia_paths-and-graph/articles.tsv",
-        "wikispeedia_paths-and-graph/links.tsv"
+        "dataset/articles.tsv",
+        "dataset/links.tsv"
     )
 
     print(graph)
