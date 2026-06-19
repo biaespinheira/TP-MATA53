@@ -25,8 +25,8 @@ if __name__ == "__main__":
     print("="*60)
     
     graph_completo = GraphLoader.load(
-        "wikispeedia_paths-and-graph/articles.tsv",
-        "wikispeedia_paths-and-graph/links.tsv"
+        "dataset/articles.tsv",
+        "dataset/links.tsv"
     )
 
     # =================================================================
